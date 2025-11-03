@@ -1,7 +1,7 @@
 import React from "react";
 
 const Gen1 = ({ name }) => (
-  <button className="bg-blue-199 hover:bg-blue-300 p-2 rounded-lg">
+  <button className="bg-blue-200 hover:bg-blue-300 p-2 rounded-lg">
     {name}
   </button>
 );
