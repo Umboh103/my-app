@@ -8,7 +8,7 @@ const Home = ({ title }) => {
       <h2 className="text-xl font-bold mb-3 text-center">{title}</h2>
       <div className="space-y-4">
         <Search placeholder="Search Pokémon..." />
-        <CardInfo title="Pokémon Card Information" />
+        <CardInfo title="Pokédex Information" />
       </div>
     </main>
   );
